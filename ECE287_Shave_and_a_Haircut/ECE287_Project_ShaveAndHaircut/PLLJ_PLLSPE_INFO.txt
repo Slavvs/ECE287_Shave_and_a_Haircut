@@ -1,0 +1,10 @@
+PLL_Name	Audio_Alt_PLL:audioPllClockGen|altpll:altpll_component|Audio_Alt_PLL_altpll:auto_generated|pll1
+PLLJITTER	15
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	clockBuffer:clockBuffer50MHz|altpll:altpll_component|pll
+PLLJITTER	30
+PLLSPEmax	84
+PLLSPEmin	-53
+

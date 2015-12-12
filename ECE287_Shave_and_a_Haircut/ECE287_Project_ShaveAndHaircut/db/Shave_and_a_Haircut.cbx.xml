@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Shave_and_a_Haircut">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Shave_and_a_Haircut|audioCodecController:audio_Codec_Controller|ROMcontroller:ROMcontrollerInstance|codecROM:codecROMInstance|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7671.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Shave_and_a_Haircut|Audio_Alt_PLL:audioPllClockGen|altpll:altpll_component" CBX_FILE_NAME="Audio_Alt_PLL_altpll.v"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,281 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -3.866
+TNS   : -74.154
+
+Type  : Slow 1200mV 85C Model Setup 'adc_dac_controller:adcDacController|dataCount'
+Slack : -2.808
+TNS   : -108.142
+
+Type  : Slow 1200mV 85C Model Setup 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : -1.465
+TNS   : -17.451
+
+Type  : Slow 1200mV 85C Model Setup 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : -0.221
+TNS   : -0.221
+
+Type  : Slow 1200mV 85C Model Setup 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 51.658
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : -0.160
+TNS   : -0.160
+
+Type  : Slow 1200mV 85C Model Hold 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : 0.389
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'adc_dac_controller:adcDacController|dataCount'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.641
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -2.149
+TNS   : -48.537
+
+Type  : Slow 1200mV 85C Model Recovery 'adc_dac_controller:adcDacController|dataCount'
+Slack : -2.005
+TNS   : -83.142
+
+Type  : Slow 1200mV 85C Model Recovery 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.804
+TNS   : -16.236
+
+Type  : Slow 1200mV 85C Model Removal 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.463
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : 1.071
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'adc_dac_controller:adcDacController|dataCount'
+Slack : 1.388
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'adc_dac_controller:adcDacController|dataCount'
+Slack : -1.285
+TNS   : -75.815
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -1.285
+TNS   : -42.405
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : -1.285
+TNS   : -21.845
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : 9.700
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_27'
+Slack : 9.891
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.892
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 26.833
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -3.596
+TNS   : -67.050
+
+Type  : Slow 1200mV 0C Model Setup 'adc_dac_controller:adcDacController|dataCount'
+Slack : -2.494
+TNS   : -93.174
+
+Type  : Slow 1200mV 0C Model Setup 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : -1.243
+TNS   : -14.149
+
+Type  : Slow 1200mV 0C Model Setup 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : -0.035
+TNS   : -0.035
+
+Type  : Slow 1200mV 0C Model Setup 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 51.888
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : -0.260
+TNS   : -0.260
+
+Type  : Slow 1200mV 0C Model Hold 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'adc_dac_controller:adcDacController|dataCount'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.586
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -2.245
+TNS   : -52.152
+
+Type  : Slow 1200mV 0C Model Recovery 'adc_dac_controller:adcDacController|dataCount'
+Slack : -1.994
+TNS   : -83.166
+
+Type  : Slow 1200mV 0C Model Recovery 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.598
+TNS   : -14.382
+
+Type  : Slow 1200mV 0C Model Removal 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : 1.132
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'adc_dac_controller:adcDacController|dataCount'
+Slack : 1.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'adc_dac_controller:adcDacController|dataCount'
+Slack : -1.285
+TNS   : -75.815
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -1.285
+TNS   : -42.405
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : -1.285
+TNS   : -21.845
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : 9.702
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_27'
+Slack : 9.887
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.889
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 26.835
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -1.493
+TNS   : -22.406
+
+Type  : Fast 1200mV 0C Model Setup 'adc_dac_controller:adcDacController|dataCount'
+Slack : -1.005
+TNS   : -28.138
+
+Type  : Fast 1200mV 0C Model Setup 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : -0.197
+TNS   : -1.015
+
+Type  : Fast 1200mV 0C Model Setup 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 53.030
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : -0.086
+TNS   : -0.086
+
+Type  : Fast 1200mV 0C Model Hold 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'adc_dac_controller:adcDacController|dataCount'
+Slack : 0.196
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.291
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.836
+TNS   : -7.524
+
+Type  : Fast 1200mV 0C Model Recovery 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -0.823
+TNS   : -16.362
+
+Type  : Fast 1200mV 0C Model Recovery 'adc_dac_controller:adcDacController|dataCount'
+Slack : -0.642
+TNS   : -25.977
+
+Type  : Fast 1200mV 0C Model Removal 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : 0.406
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'adc_dac_controller:adcDacController|dataCount'
+Slack : 0.461
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'adc_dac_controller:adcDacController|dataCount'
+Slack : -1.000
+TNS   : -59.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'adc_dac_controller:adcDacController|internalBitClock'
+Slack : -1.000
+TNS   : -33.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'audioCodecController:audio_Codec_Controller|clock50KHz:clock50KHzInstance|output'
+Slack : -1.000
+TNS   : -17.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_27'
+Slack : 9.574
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.575
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clockBuffer50MHz|altpll_component|pll|clk[0]'
+Slack : 9.773
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'audioPllClockGen|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 26.906
+TNS   : 0.000
+
+------------------------------------------------------------

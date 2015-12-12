@@ -1,0 +1,17 @@
+
+State Machine - |Shave_and_a_Haircut|adc_dac_controller:adcDacController|shaveAndAHaircut
+Name shaveAndAHaircut.B shaveAndAHaircut.Rest shaveAndAHaircut.GSharp shaveAndAHaircut.G shaveAndAHaircut.C 
+shaveAndAHaircut.C 0 0 0 0 0 
+shaveAndAHaircut.G 0 0 0 1 1 
+shaveAndAHaircut.GSharp 0 0 1 0 1 
+shaveAndAHaircut.Rest 0 1 0 0 1 
+shaveAndAHaircut.B 1 0 0 0 1 
+
+State Machine - |Shave_and_a_Haircut|audioCodecController:audio_Codec_Controller|I2C_state
+Name I2C_state.stopCondition I2C_state.prepForStop I2C_state.acknowledge I2C_state.sendData I2C_state.startCondition I2C_state.resetState 
+I2C_state.resetState 0 0 0 0 0 0 
+I2C_state.startCondition 0 0 0 0 1 1 
+I2C_state.sendData 0 0 0 1 0 1 
+I2C_state.acknowledge 0 0 1 0 0 1 
+I2C_state.prepForStop 0 1 0 0 0 1 
+I2C_state.stopCondition 1 0 0 0 0 1 
